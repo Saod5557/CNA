@@ -1,0 +1,18 @@
+{
+    "DataLength": "1239",
+    "PacketID": "51966",
+    "AVLID": "158",
+    "IMEILength": "15",
+    "IMEI": "b'350544504943914'",
+    "codecID": "8",
+    "record": "27",
+    "timestamp": "1689507430000",
+    "Date_time": "2023-07-16 14:37:10",
+    "priority": "1",
+    "longitude": "399583600",
+    "latitude": "213245700",
+    "altitude": "0",
+    "angle": "0",
+    "satellites": "0",
+    "speed": "0"
+}

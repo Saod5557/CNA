@@ -1,0 +1,15 @@
+{
+    "DataLength": "318",
+    "codec": "8",
+    "record": "7",
+    "timestamp": "1689184520010",
+    "Date_time": "2023-07-12 20:55:20.010000",
+    "priority": "1",
+    "longitude": "397792383",
+    "latitude": "215570949",
+    "altitude": "234",
+    "angle": "253",
+    "satellites": "4",
+    "speed": "0",
+    "crc-16": "18988"
+}
